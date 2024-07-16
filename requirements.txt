@@ -1,0 +1,11 @@
+chromadb  
+langchain-community 
+tiktoken 
+transformers 
+sentence-transformers 
+langchain-huggingface
+huggingface_hub
+transformers
+accelerate
+bitsandbytes
+langchain
